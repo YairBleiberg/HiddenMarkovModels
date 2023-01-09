@@ -1,1 +1,1 @@
-This project trains Hidden Markov Models (HMMs) on the Brown corpus in conjuction with two other methods designed to improve performance - Add-one Smoothing and Pseudowords. This is compared to the baseline of Maximum Likelihood Estimation (MLE), and standalone HMM without those methods.
+This project trains Hidden Markov Models (HMMs) on the Brown corpus in conjuction with two other methods designed to improve performance - Add-one Smoothing and Pseudowords. This is compared to the baseline of Maximum Likelihood Estimation (MLE), and ablation on the aformentioned HMM.
